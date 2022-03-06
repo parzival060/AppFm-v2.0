@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LabP1L</string>
+    <string name="notification_channel_group_general">General</string>
+
+    // for login
+    <string name="prompt_email">Correo electronico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesion</string>
+    <string name="action_sign_in_short" translatable="false">iniciar sesion</string>
+    <string name="action_sign_up">Registro</string>
+    <string name="error_invalid_email">el email es invalido</string>
+    <string name="error_invalid_password">la contraseña es demasiado corta</string>
+    <string name="error_incorrect_email_password">el correo o la contraseña son incorrectos</string>
+    <string name="sign_up_free">No tienes una cuenta? Registrate ahora!</string>
+    <string name="create_account">Crear una cuenta</string>
+    <string name="sign_in_free">Ya tienes cuenta? Inicia sesion</string>
+    <string name="authenticating">Authenticando...</string>
+    <string name="confirm_email">Confirmar correo</string>
+    <string name="please_confirm_email">Porfavor confirma tu correo (%s) para crear la cuenta</string>
+    <string name="user_login_successful">registro completo</string>
+    <string name="ok">Ok</string>
+    <string name="join">UNIR</string>
+    <string name="action_logout">salir</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_videocall">videollamada</string>
+    <string name="action_reunion">Ingrese el codigo de la reunion...</string>
+    <string name="hello_word">cambiar idioma</string>
+
+</resources>
